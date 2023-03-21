@@ -18,8 +18,8 @@ public class App {
 
         int sum = 0;
         int prod = 1;
-        int largest = Integer.MAX_VALUE;
-        int smallest = Integer.MIN_VALUE;
+        int largest = Integer.MIN_VALUE;
+        int smallest = Integer.MAX_VALUE;
 
         for (int i = 0; i < numList.size(); i++)
         {
